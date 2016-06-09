@@ -1,3 +1,0 @@
-本文只解释一个问题：一个View是怎么正确显示到屏幕上的
-参考文档
-https://source.android.com/devices/graphics/architecture.html
